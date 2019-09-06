@@ -1,4 +1,5 @@
-/bin/
 #Não fazer upload do banco de dados
-
 *.sql
+
+#Não fazer upload dos arquivos .Class da pasta bin
+bin/br/com/clinica/domain/*.class
