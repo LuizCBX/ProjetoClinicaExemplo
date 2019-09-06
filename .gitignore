@@ -1,1 +1,4 @@
 /bin/
+#Não fazer upload do banco de dados
+
+*.sql
